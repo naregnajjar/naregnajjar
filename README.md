@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naregnajjar&label=Profile%20views&color=0e75b6&style=flat" alt="naregnajjar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naregnajjar" alt="naregnajjar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="##" alt="naregnajjar" /></a> </p>
 
 - 🔭 I worked with Solo Minds company **E-commerce project**
 
