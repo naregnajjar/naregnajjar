@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naregnajjar" alt="naregnajjar" /></a> </p>
 
-- 🔭 I’m currently working with Solo Minds company **E-commerce projects**
+- 🔭 I worked with Solo Minds company **E-commerce project**
 
 - 🌱 I’m currently learning **Next.js and**
 
