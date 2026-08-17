@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I worked with Solo Minds company **E-commerce project**
+- 🔭 I working with Jinishian Memorial foundation  ** NGO website  project**
 
 - 🌱 I’m currently learning **Next.js and**
 
