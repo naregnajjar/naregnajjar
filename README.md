@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I working with Jinishian Memorial foundation  ** NGO website  project**
+- 🔭 I am working with Jinishian Memorial foundation  ** NGO website  project**
 
 - 🌱 I’m currently learning **Next.js and**
 
